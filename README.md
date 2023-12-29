@@ -1,5 +1,5 @@
 ## Antimicrobial peptides Prediction Based on BERT and Ensemble Learning
-# Experimental instructions
+# Experimental instruction
 * The training and testing code for the integration model is in the main.py file
 * The code for the ROC curve and PR curve is in the plot.py file
 * The training and testing code for the base model is in the train_bert folder
