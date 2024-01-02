@@ -1,5 +1,5 @@
 # 基于BERT和集成学习的抗菌肽预测
-## Antimicrobial peptides Prediction Based on BERT and Ensemble Learning
+Antimicrobial peptides Prediction Based on BERT and Ensemble Learning
 # Experimental instruction
 * The training and testing code for the integration model is in the main.py file
 * The code for the ROC curve and PR curve is in the plot.py file
