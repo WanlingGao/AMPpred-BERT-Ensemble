@@ -5,8 +5,7 @@
 * 基础模型的训练和测试代码位于train_bert文件夹中
 * AMP综合数据集存放在dataset文件夹中
 ## 引文
-高皖陵，赵俊，岳振宇*，基于BERT和集成学习的抗菌肽预测，2023，已提交。<br>
-Wanling Gao, Jun Zhao, and Zhenyu Yue*, Antimicrobial peptides Prediction Based on BERT and Ensemble Learning, 2023, Submitted.
+高皖陵，赵俊，岳振宇*，基于BERT和集成学习的抗菌肽预测，2023，已提交
 ## 联系
-如果您需要任何帮助，请随时与我们联系：zhenyuyue@ahau.edu.cn<br>
-Please feel free to contact us if you need any help: zhenyuyue@ahau.edu.cn
+如果您需要任何帮助，请随时与我们联系：zhenyuyue@ahau.edu.cn
+
