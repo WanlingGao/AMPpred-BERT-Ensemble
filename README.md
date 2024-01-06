@@ -6,6 +6,7 @@
 * 绘制ROC曲线和PR曲线的代码在plot.py文件中<br>
 <br>
 如果想测评和使用我们的模型，首先需要将测试数据输入到四种基于BERT的基础预测工具中，然后将预测概率结果输入到我们的集成模型main.py文件中，得到最终的预测结果
+<br>
 ## 引文
 高皖陵，赵俊，岳振宇*，基于BERT和集成学习的抗菌肽预测，2023，已提交
 ## 联系
@@ -19,6 +20,7 @@
 * The code for drawing ROC curves and PR curves is in the plot.py file<br>
 <br>
 If you want to evaluate and use our model, you first need to input the test data into four basic prediction tools based on BERT, and then input the prediction probability results into our integrated model main.py file to get the final prediction results.
+<br>
 ## Citation
 Wanling Gao, Jun Zhao, and Zhenyu Yue*, Antimicrobial peptides Prediction Based on BERT and Ensemble Learning, 2023, Submitted.
 ## Citation
